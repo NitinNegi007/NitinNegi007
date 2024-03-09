@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - Linkdin - https://www.linkedin.com/in/nitin-negi-a76a1a24b/
+- 🖥️ Website - https://main--nitinnegi.netlify.app/
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: ...
 
